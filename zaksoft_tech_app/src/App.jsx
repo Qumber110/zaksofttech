@@ -1,5 +1,5 @@
 import styles from "./style";
-import { Service, Business,  Contact, Footer, Navbar, Stats,  Hero, MyForm,} from "./Components";
+import { Service, Business,  Contact, Footer, Navbar, Stats,  Hero,} from "./Components";
 
 
 const App = () => (
