@@ -1,7 +1,6 @@
 import Navbar from "./Navbar";
 import Service from "./Service";
 import CardDeal from "./CardDeal";
-import Business from "./Business";
 import Clients from "./Clients";
 import CTA from "./CTA";
 import Stats from "./Stats";
@@ -21,7 +20,6 @@ export {
   MyForm,
   Contact,
   CardDeal,
-  Business,
   Clients,
   CTA,
   Stats,
