@@ -30,8 +30,7 @@ const Business = () => (
     <br className="sm:block hidden" /> TECH PVT LTD</span>
      &nbsp;IT <br className="sm:block hidden" />Specialities
     </h2>
-{/* 	  comment out paragraph */}
-{/*     <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
+    <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
     As a software and digital marketing company,
     we specialize in creating innovative solutions
     that meet the needs of businesses of all sizes.
@@ -39,7 +38,7 @@ const Business = () => (
     potential of digital technology and helping 
     our clients achieve their goals through 
     cutting-edge software and marketing tools.
-    </p> */}
+    </p>
 
     {/* <Button styles={`mt-10`} /> */}
     
